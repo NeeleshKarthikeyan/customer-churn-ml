@@ -20,6 +20,7 @@ This is a supervised binary classification problem.
 The initial baseline model uses a Random Forest Classifier.
 
 ## Iteration Strategy
+1. Baseline
 2. replacing missing-value deletion with imputation
 3. introducing a preprocessing pipeline
 4. using `ColumnTransformer`
