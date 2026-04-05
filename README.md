@@ -22,9 +22,8 @@ The initial baseline model uses a Random Forest Classifier.
 ## Iteration Strategy
 1. Baseline
 2. replacing missing-value deletion with imputation
-3. introducing a preprocessing pipeline
-4. using `ColumnTransformer`
-5. comparing against Logistic Regression
-6. adding cross-validation
-7. including ROC-AUC
-8. performing hyperparameter tuning
+3. introducing a preprocessing pipeline and using `ColumnTransformer`
+4. comparing against Logistic Regression
+5. adding cross-validation
+6. including ROC-AUC
+7. performing hyperparameter tuning
