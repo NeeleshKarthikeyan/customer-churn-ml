@@ -27,3 +27,6 @@ The initial baseline model uses a Random Forest Classifier.
 5. adding cross-validation
 6. including ROC-AUC
 7. performing hyperparameter tuning
+8. Final Evaluation
+9. Visualizations and Interpretations
+10. Final Code
